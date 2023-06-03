@@ -27,15 +27,13 @@ I enjoy participating in competitive coding contests and honing my algorithmic s
 ## Get in Touch
 - LinkedIn: [devesh-y](https://www.linkedin.com/in/devesh-y)
 
-<details>
-	<summary> ⚡ Github Stats </summary>
-	<br />
+## GitHub Stats
 
-[![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=devesh-y)]
+![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=devesh-y)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-y&" alt="devesh-y"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=devesh-y&label=PROFILE+VIEWS&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/devesh-y?style=social)
-</details>
+
 
 
