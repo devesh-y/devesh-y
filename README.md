@@ -29,7 +29,7 @@ I enjoy participating in competitive coding contests and honing my algorithmic s
 
 ## GitHub Stats
 
-![Devesh's github stats](https://github-readme-stats.vercel.app/api?username=devesh-y)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh-y&" alt="devesh-y"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=devesh-y&label=PROFILE+VIEWS&style=flat-square) 
