@@ -6,11 +6,13 @@
 - **Major:** Information Technology
 
 ## Technologies and Tools
-- Programming Languages: C/C++, Java, JavaScript, TypeScript
-- Web Technologies: HTML, CSS, React, Node.js, Express.js
-- Databases: MongoDB, MySQL
-- Other Skills: WebRTC, Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks
+- Programming Languages: C, C++
+- Frontend Technologies: HTML, CSS, JavaScript, TypeScript, React Js
+- Backend Technologies: Node Js, Express Js, WebRTC, Socket.IO, REST API
+- Databases: MongoDB, MySQL, Firestore
+- Technical Skills: WebRTC, Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks
 - Version Control: Git, GitHub
+- DevOps: Docker
 
 ## Competitive Coding
 I enjoy participating in competitive coding contests and honing my algorithmic skills.
