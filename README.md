@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my GitHub Profile!
-
+[Resume](https://drive.google.com/file/d/1NP_0DeR8MCYxg49AaP7QloDP6vE5iKNu/view?usp=drive_link)
 ## About Me
 - **Name:** Devesh Yadav
 - **College:** Delhi Technological University (2020-2024)
@@ -7,10 +7,10 @@
 
 ## Technologies and Tools
 - Programming Languages: C, C++
-- Frontend Technologies: HTML, CSS, JavaScript, TypeScript, React Js
+- Frontend Technologies: HTML, CSS, JavaScript, TypeScript, React Js, Radix UI
 - Backend Technologies: Node Js, Express Js, WebRTC, Socket.IO, REST API
 - Databases: MongoDB, MySQL, Firestore
-- Technical Skills: WebRTC, Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks
+- Technical Skills: WebRTC, Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks, SQL
 - Version Control: Git, GitHub
 - DevOps: Docker
 
