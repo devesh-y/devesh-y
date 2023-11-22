@@ -12,7 +12,7 @@
 - Databases: MongoDB, MySQL, Firestore
 - Technical Skills: WebRTC, Data Structures and Algorithms, Operating Systems, DBMS, Computer Networks, SQL
 - Version Control: Git, GitHub
-- DevOps: Docker
+- DevOps: Docker, AWS
 
 ## Competitive Coding
 I enjoy participating in competitive coding contests and honing my algorithmic skills.
